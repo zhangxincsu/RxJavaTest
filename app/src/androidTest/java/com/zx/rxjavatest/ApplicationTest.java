@@ -1,4 +1,4 @@
-package com.konka.rxjavatest;
+package com.zx.rxjavatest;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

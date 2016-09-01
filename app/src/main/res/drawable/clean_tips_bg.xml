@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:drawable="@mipmap/clean_blue_pic"
+        android:maxLevel="0"/>
+    <item
+        android:drawable="@mipmap/clean_green_pic"
+        android:maxLevel="1"/>
+    <item
+        android:drawable="@mipmap/clean_yellow_pic"
+        android:maxLevel="2"/>
+    <item
+        android:drawable="@mipmap/clean_red_pic"
+        android:maxLevel="3"/>
+    <item
+        android:drawable="@mipmap/clean_ok_pic"
+        android:maxLevel="4"/>
+    <item
+        android:drawable="@mipmap/clean_complete_pic"
+        android:maxLevel="5"/>
+</level-list>
